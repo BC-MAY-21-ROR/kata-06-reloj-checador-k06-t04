@@ -1,8 +1,2 @@
-class Employee
- def initialize()
-
-
- end
-
-
+class Employee < ApplicationRecord
 end

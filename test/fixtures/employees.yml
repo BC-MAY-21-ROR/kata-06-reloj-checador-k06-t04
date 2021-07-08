@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  privateNumber: 1
+  employeeNumber: MyText
+  Name: MyText
+  Email: MyText
+  Position: MyText
+  idAdmin: 1
+  idCompany: 1
+  attendaceDate: MyText
+
+two:
+  privateNumber: 1
+  employeeNumber: MyText
+  Name: MyText
+  Email: MyText
+  Position: MyText
+  idAdmin: 1
+  idCompany: 1
+  attendaceDate: MyText
